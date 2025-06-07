@@ -99,11 +99,3 @@ npx expo start
 * Todas as funcionalidades funcionam **offline** (sem necessidade de backend)
 
 
-```
-
----
-
-Se quiser, posso gerar esse README como um arquivo `.md` pronto para você colocar no GitHub, ou personalizar com prints, badges ou instruções de deploy na Play Store.
-
-Quer que eu gere o arquivo para download?
-```
