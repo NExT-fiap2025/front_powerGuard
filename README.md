@@ -1,19 +1,13 @@
-Claro! Aqui está um **README.md profissional e completo** para o seu projeto **PowerGuard**, cobrindo funcionalidades, instalação, execução e estrutura do app:
-
----
-
-Gustavo Ferreira Lopes - 98887
-
-Pedro Henrique Salvitti - 88166
-
-
-```markdown
 # ⚡ PowerGuard – Monitoramento de Quedas de Energia
 
 PowerGuard é um aplicativo React Native desenvolvido com Expo para registrar, visualizar e acompanhar **eventos de falta de energia** causados por fenômenos naturais como tempestades, ventos fortes, enchentes e mais.
 
 ---
-
+|nome|	rm|
+|---|---|
+|Gustavo Lopes	|98887|
+|Eduardo Gomes	|97919|
+|Enzo Cunha	|550985|
 ## 📱 Funcionalidades
 
 - 📊 **Panorama Geral:** exibe resumo de eventos registrados (totais, resolvidos, duração média, etc.)
@@ -62,7 +56,7 @@ project/
 ├── app.json                 # Configurações do Expo
 └── tsconfig.json            # Configuração do TypeScript
 
-````
+```
 
 ---
 
@@ -101,15 +95,9 @@ npx expo start
 
 ## 📌 Observações
 
-* O app ainda não possui tela de detalhes (`/event/[id]`)
-* Algumas dependências podem ser atualizadas para melhor compatibilidade (ver `expo doctor`)
+
 * Todas as funcionalidades funcionam **offline** (sem necessidade de backend)
 
----
-
-## 📃 Licença
-
-MIT © \[Seu Nome ou Organização]
 
 ```
 
